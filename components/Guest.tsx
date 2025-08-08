@@ -17,7 +17,7 @@ const Guest = () => {
           <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold mb-4 sm:mb-6 text-gray-900 dark:text-gray-100 leading-tight'>
             Welcome to{' '}
             <span className='bg-gradient-to-r from-emerald-600 via-green-500 to-teal-500 bg-clip-text text-transparent'>
-              ExpenseTracker AI
+              AI ExpenseTracker
             </span>
           </h1>
           <p className='text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 text-gray-600 dark:text-gray-400 leading-relaxed max-w-3xl mx-auto px-2 sm:px-0'>
@@ -94,7 +94,7 @@ const Guest = () => {
               </span>
             </h2>
             <p className='text-sm sm:text-base md:text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto px-2 sm:px-0'>
-              Everything you need to know about ExpenseTracker AI and how it can
+              Everything you need to know about AI ExpenseTracker and how it can
               transform your financial management.
             </p>
           </div>
@@ -107,10 +107,10 @@ const Guest = () => {
                 </div>
                 <div className='flex-1'>
                   <h3 className='text-lg sm:text-xl font-bold text-gray-900 dark:text-gray-100 mb-2 sm:mb-3'>
-                    What is ExpenseTracker AI?
+                    What is AI ExpenseTracker?
                   </h3>
                   <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400 leading-relaxed'>
-                    ExpenseTracker AI is an intelligent financial management
+                    AI ExpenseTracker is an intelligent financial management
                     tool that uses artificial intelligence to help you monitor
                     your spending patterns, get smart category suggestions, and
                     receive personalized insights to improve your financial
@@ -147,10 +147,10 @@ const Guest = () => {
                 </div>
                 <div className='flex-1'>
                   <h3 className='text-lg sm:text-xl font-bold text-gray-900 dark:text-gray-100 mb-2 sm:mb-3'>
-                    Is ExpenseTracker AI free?
+                    Is AI ExpenseTracker free?
                   </h3>
                   <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400 leading-relaxed'>
-                    Yes, ExpenseTracker AI offers a free plan with basic AI
+                    Yes, AI ExpenseTracker offers a free plan with basic AI
                     features including smart categorization and insights.
                     Premium plans are available for advanced AI analytics and
                     unlimited AI interactions.
@@ -178,7 +178,7 @@ const Guest = () => {
             </h2>
             <p className='text-sm sm:text-base md:text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto px-2 sm:px-0'>
               Join thousands of satisfied users who have transformed their
-              financial habits with ExpenseTracker AI.
+              financial habits with AI ExpenseTracker.
             </p>
           </div>
 
@@ -202,7 +202,7 @@ const Guest = () => {
                   </div>
                 </div>
                 <p className='text-sm sm:text-base text-gray-700 dark:text-gray-300 leading-relaxed mb-4'>
-                  &ldquo;ExpenseTracker AI has completely transformed my
+                  &ldquo;AI ExpenseTracker has completely transformed my
                   budgeting. The AI insights are incredibly helpful and I now
                   have full control over my finances!&rdquo;
                 </p>
@@ -260,7 +260,7 @@ const Guest = () => {
                   </div>
                 </div>
                 <p className='text-sm sm:text-base text-gray-700 dark:text-gray-300 leading-relaxed mb-4'>
-                  &ldquo;ExpenseTracker AI is so intelligent and easy to use.
+                  &ldquo;AI ExpenseTracker is so intelligent and easy to use.
                   The AI recommendations are spot-on and have genuinely improved
                   my financial habits!&rdquo;
                 </p>
