@@ -1,3 +1,4 @@
+import AddNewRecord from '@/components/AddNewRecord';
 import Guest from '@/components/Guest';
 import { currentUser } from '@clerk/nextjs/server';
 
@@ -76,6 +77,8 @@ export default async function HomePage() {
                 </div>
               </div>
             </div>
+            {/* Add New Expense */}
+            <AddNewRecord />
           </div>
         </div>
       </div>
